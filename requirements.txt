@@ -1,0 +1,7 @@
+flask==2.3.2
+opencv-python>=4.8.0  # For computer vision and image processing
+mediapipe>=0.10.0    # For pose detection and landmark identification
+numpy>=1.24.0
+scipy>=1.10.0
+flask-cors
+psutil==5.9.8
